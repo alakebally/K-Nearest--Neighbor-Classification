@@ -1,4 +1,4 @@
-## README: Breast Cancer Diagnosis using K-Nearest Neighbors
+##  Breast Cancer Diagnosis using K-Nearest Neighbors
 
 ### Project Overview
 This project focuses on developing and evaluating a K-Nearest Neighbors (KNN) classifier for the accurate diagnosis of breast cancer. Utilizing the Breast Cancer Wisconsin (Diagnostic) Dataset, the primary goal is to build a robust and interpretable model capable of differentiating between benign and malignant cases. A comparative analysis with Logistic Regression was also performed to benchmark the KNN model's performance.
